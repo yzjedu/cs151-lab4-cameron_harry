@@ -1,6 +1,8 @@
 # Reflection Document
 
-* Drive Full Name  : 
-* Partner Full Name: 
-* Student ID:  
+* Drive Full Name: Harry Li
+* Partner Full Name: Cameron Combariza
+* Student ID:  1930859
 
+
+I learned how to create nested if statements and while loops, and I was also able to use critical problem-solving when the code didn't work properly. I planned the process that the code would run when the user input the values and wrote an outline to see if there would be calculations that would mess up the code. Then, I compared my expected results to the actual results of my code to see if they would match. At first, I made the mistake of making the input 'additional_data' an integer not knowing that if the user entered a decimal into the code, it would cause an error. So I changed the input into a float and if the user entered a decimal it would round up to the next integer.I tried multiple cases for many situations in my code such as decimal numbers for 'additional_cost', numbers for 'package', invalid inputs for 'coupon', and 'package'. There were only some minor challenges that struck me and caused my code to not function such as if the user entered yes for the coupon even though they didn't have the green package, and if they entered an additional_data value and had the purple package. I wrote out an outline of the things I needed for the program and then wrote my algorithm. Then used my algorithm and outline sheet to code my program. Finally, I used my test cases and other inputs to see if my code running properly and if there were mistakes, I would go back to change/fix it. Working with my partner was fairly easy as we got stuff done and communication was Ok since everything was simple to understand.
